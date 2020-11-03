@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このリポジトリは、『現場で使えるRuby on Rails 5 速習実践ガイド 5.2対応』のChapter2の練習用リポジトリです。
+またSmartHRさんが公開している下記の社内Rails研修のリポジトリと併走して学習をしています。
+公開して頂き、本当にありがとうございます！
 
-Things you may want to cover:
+- [SmartHR](https://smarthr.jp/)
+- [kuju/yay](https://github.com/kufu/yay)
 
-* Ruby version
+>このテキストは、Web開発の経験があるけれど、RubyとRailsにはまだ慣れていない方々に向けて作成されたものです。 SmartHRでは、現在多くのプロダクトのバックエンドがRailsによって書かれています。すなわち、RailsのスキルはSmartHRのエンジニアに必須です！ しかし、Railsを深く理解するのはとても難しいです。なぜなら、Railsを理解するためにはまずRubyを理解する必要があるからです。 どの言語、どのWAFでも同じですが、そのWAFを使いこなすためには言語の特性を知り、WAFの動きを頭の中で納得することが重要です。
 
-* System dependencies
+>前半パートでは、まずRailsを理解するためのRuby講座があります。そして後半パートでは、現場Railsを題材にしてRailsを理解していきます。 このテキストを終える頃には、あなたはSmartHRのRails戦士です！ Yay!
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+また今後は、Chapter2以降の学習用リポジトリも公開していく予定です。
